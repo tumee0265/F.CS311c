@@ -5,7 +5,7 @@ package Lab3;
 	
 
 	import java.util.*;
-
+//aa
 	public class List<T> {
 
 		private T[] element;
